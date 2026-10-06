@@ -1,50 +1,55 @@
-# Awesome-Quantum-Computing-Cloud-Service
+# Awesome Quantum Computing Cloud Service ⚛️☁️
 
-## Top Quantum Computing Cloud Service Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Quantum Computing Cloud Service Banner" width="100%"/>
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&oogo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Quantum-Computing-Cloud-Service/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Quantum-Computing-Cloud-Service?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Quantum-Computing-Cloud-Service/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Quantum-Computing-Cloud-Service?style=flat-square&color=blue" alt="GitHub Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Quantum-Computing-Cloud-Service/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Quantum-Computing-Cloud-Service?style=flat-square&color=green" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+## 🚀 Top Quantum Computing Cloud Service Ecosystem
 
-*Focused on Quantum Cloud Access, Hybrid Algorithms & Open-Source Quantum SDKs*  
+**Curated List of Commercial QaaS (Quantum-as-a-Service) Products & Open-Source Software (OSS) SDKs**  
+*Focused on Quantum Cloud Access, Hybrid Quantum-Classical Algorithms & Open-Source Quantum Simulators*  
 
-**Last updated: October 2026**
+🗓️ **Last updated: October 2026**
 
+---
 
+### 💡 Overview & SEO Keywords
+This repository tracks notable **commercial quantum computing cloud services**, **Quantum-as-a-Service (QaaS)** platforms, and **open-source quantum software frameworks** that provide access to quantum processing units (QPUs), noisy intermediate-scale quantum (NISQ) systems, fault-tolerant simulators, and hybrid compilation stacks.
 
-This repository tracks notable **commercial quantum computing cloud services** and **open-source projects** that provide access to quantum processors, simulators, and development frameworks. These platforms enable researchers and developers to run quantum circuits, optimize hybrid algorithms, and explore quantum advantage.
+Key topics covered: `Quantum Computing Cloud Service`, `QaaS`, `Quantum SDK`, `Quantum Simulators`, `Qiskit`, `Cirq`, `PennyLane`, `Quantum Machine Learning (QML)`, `Quantum Annealing`, `Trapped-Ion QPU`, `Neutral-Atom Quantum Computing`, `Photonic Quantum Computers`.
 
+- ⚡ **Commercial SaaS Examples**: Amazon Braket, IBM Quantum Platform, Microsoft Azure Quantum, Rigetti Computing, D-Wave Leap, IonQ Quantum Cloud, QuEra Computing, Strangeworks, Xanadu PennyLane Cloud, and QC Ware Forge.
+- 🔬 **Open-Source Leadership**: Open-source SDKs lead quantum software development. Frameworks like **Cirq**, **Qiskit**, **PennyLane**, **QuTiP**, **OpenFermion**, **CUDA-Q**, and **Q#** provide the foundation for quantum circuit construction, chemistry simulations, and GPU-accelerated quantum research.
 
+---
 
-**Examples** include Amazon Braket, IBM Quantum Platform, Microsoft Azure Quantum, Rigetti Computing, D-Wave Leap, IonQ Quantum Cloud, QuEra Computing, Strangeworks, Xanadu PennyLane Cloud, and QC Ware Forge (the category leaders).
+## 📑 Table of Contents
 
+- [☁️ SaaS/Hosted Platforms](#%EF%B8%8F-saashosted-platforms)
+- [🛠️ Open-Source GitHub Projects](#%EF%B8%8F-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📜 Disclaimer](#-disclaimer)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
 
+---
 
-**Open-source emphasis**: Quantum computing is a domain where open-source software leads. **Qiskit** (IBM), **Cirq** (Google), **PennyLane** (Xanadu), and **ProjectQ** provide the foundational frameworks that power most quantum development. **Catalyst** brings JIT compilation, **CUDA-Q** extends quantum programming to GPU-accelerated systems, and **OpenFermion** handles quantum chemistry. **QuTiP** simulates open quantum systems. This section is heavily expanded.
+## ☁️ SaaS/Hosted Platforms
 
+> 📈 **Sector Overview:** The global quantum computing cloud service market is estimated at **$1.1B–$1.6B in 2026** (projected to reach **$6.2B+ by 2030** at ~35% CAGR). The sector is **highly fragmented** due to competing qubit hardware modalities (superconducting, trapped-ion, neutral-atom, photonic, annealing) and a dual model where hyperscale aggregators (AWS, Azure) distribute specialized pure-play quantum hardware backends.
 
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-> **Sector Overview:** The global quantum computing cloud service market is estimated at **$1.1B–$1.6B in 2026** (projected to reach **$6.2B+ by 2030** at ~35% CAGR). The sector is **highly fragmented** due to competing qubit hardware modalities (superconducting, trapped-ion, neutral-atom, photonic, annealing) and a dual model where hyperscale aggregators (AWS, Azure) distribute specialized pure-play quantum hardware backends.
-
-| Platform | Company Size (Valuation/Revenue) | Description | Pricing | Free Tier Limit |
+| 🏢 Platform | 💰 Company Size (Valuation/Revenue) | 📝 Description | 🏷️ Pricing | 🎁 Free Tier Limit |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Microsoft Azure Quantum](https://azure.microsoft.com/en-us/products/quantum)** | Market Cap: ~$3.10 Trillion (Rev: ~$245B) | Microsoft's cloud quantum service — access to IonQ, Quantinuum, Rigetti, Pasqal. Q# programming language, Resource Estimator & Copilot integration. | $0.30/task + $0.00035–$0.01/shot (QPU); $10.00/hour (quantum simulator execution) | $500 free credit per provider for new users; unlimited free cloud simulator & Quantinuum Emulator without Azure account |
 | **[Amazon Braket](https://aws.amazon.com/braket/)** | Market Cap: ~$2.10 Trillion (AWS Rev: ~$90B) | AWS fully managed quantum service — access to IonQ, Rigetti, QuEra, and D-Wave. Unified Python SDK, 11 pre-built algorithms & Braket Direct. | $0.30/task + $0.00035–$0.01/shot (QPU); $0.075/min (SV1 simulator execution) | 1 hour per month of managed simulator execution (SV1/TN1/DM1) free for first 12 months |
@@ -57,164 +62,98 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Strangeworks](https://strangeworks.com/)** | Valuation: ~$120.00 Million (Private VC) | Unified compute platform aggregating quantum, quantum-inspired, HPC, and classical backends with one-click setup and zero markup. | $0.001 per shot (zero markup on cloud QPU execution); $500.00/month enterprise workspace subscription | Free Community tier with unlimited public workspace access & 100 free simulator jobs/month |
 | **[QC Ware Forge](https://qcware.com/)** | Valuation: ~$100.00 Million (Private VC) | Enterprise quantum computing platform featuring specialized turnkey algorithms for quantum chemistry, optimization, and machine learning. | $50.00/hour hybrid algorithm solver usage; $2,500.00/month Starter subscription | 30-day free trial with 1,000 Forge credit units for chemistry & optimization solver testing |
 
+---
 
+## 🛠️ Open-Source GitHub Projects
 
+*Sorted by GitHub Star Count (Descending)*
 
+1. **[Cirq](https://github.com/quantumlib/Cirq)** [![GitHub stars](https://img.shields.io/github/stars/quantumlib/Cirq?style=social&color=white)](https://github.com/quantumlib/Cirq/stargazers)  
+   **Google's open-source quantum computing framework**, Apache-2.0 licensed. Designed for NISQ-era algorithms with precise control over quantum circuits, noise models, and pulse control. Native support for Google Sycamore and Willow processors.
 
-## Open-Source GitHub Projects
+2. **[Qiskit](https://github.com/Qiskit/qiskit)** [![GitHub stars](https://img.shields.io/github/stars/Qiskit/qiskit?style=social&color=white)](https://github.com/Qiskit/qiskit/stargazers)  
+   **IBM's foundational open-source quantum SDK**, Apache-2.0 licensed. The de facto standard for building, compiling, and executing quantum circuits on IBM Quantum hardware and high-performance simulators (Aer).
 
+3. **[PennyLane](https://github.com/PennyLaneAI/pennylane)** [![GitHub stars](https://img.shields.io/github/stars/PennyLaneAI/pennylane?style=social&color=white)](https://github.com/PennyLaneAI/pennylane/stargazers)  
+   **Xanadu's leading open-source quantum machine learning framework**, Apache-2.0 licensed. Differentiable quantum programming integrating with PyTorch, TensorFlow, and JAX for hardware-agnostic hybrid quantum-classical optimization.
 
+4. **[QuTiP](https://github.com/qutip/qutip)** [![GitHub stars](https://img.shields.io/github/stars/qutip/qutip?style=social&color=white)](https://github.com/qutip/qutip/stargazers)  
+   **Quantum Toolbox in Python**, BSD-3-Clause licensed. The industry standard framework for simulating open quantum systems, master equations, quantum optics, and quantum dynamics.
 
-### Quantum SDKs & Frameworks
+5. **[OpenFermion](https://github.com/quantumlib/OpenFermion)** [![GitHub stars](https://img.shields.io/github/stars/quantumlib/OpenFermion?style=social&color=white)](https://github.com/quantumlib/OpenFermion/stargazers)  
+   **Google's open-source quantum chemistry package**, Apache-2.0 licensed. Translates electronic structure calculations, molecular Hamiltonians, and fermionic operators into qubit circuits.
 
+6. **[Q# (Microsoft Quantum Development Kit)](https://github.com/microsoft/qsharp)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/qsharp?style=social&color=white)](https://github.com/microsoft/qsharp/stargazers)  
+   **Microsoft's quantum domain-specific language and QDK**, MIT licensed. Features a high-performance Rust-based compiler, hardware-agnostic execution, and resource estimation tools for Azure Quantum.
 
+7. **[CUDA-Q](https://github.com/NVIDIA/cuda-quantum)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/cuda-quantum?style=social&color=white)](https://github.com/NVIDIA/cuda-quantum/stargazers)  
+   **NVIDIA's GPU-accelerated quantum programming platform**, Apache-2.0 licensed. Delivers unified hybrid CPU-GPU-QPU compilation for fault-tolerant quantum computing and quantum error correction.
 
-- **[Qiskit](https://github.com/Qiskit/qiskit)**  
+8. **[Strawberry Fields](https://github.com/XanaduAI/strawberryfields)** [![GitHub stars](https://img.shields.io/github/stars/XanaduAI/strawberryfields?style=social&color=white)](https://github.com/XanaduAI/strawberryfields/stargazers)  
+   **Xanadu's open-source library for continuous-variable photonic quantum computing**, Apache-2.0 licensed. Powered by the Blackbird programming language for optical quantum hardware simulation.
 
-  **The most widely adopted open-source quantum SDK**, Apache-2.0 licensed . **IBM's quantum computing framework** for building, simulating, and running quantum circuits on IBM hardware and simulators . Features **Terra (circuit construction), Aer (high-performance simulators), and Ignis (noise characterization)** . **The de facto standard for quantum programming** . **Best for general-purpose quantum development and IBM hardware access** .
+9. **[ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ)** [![GitHub stars](https://img.shields.io/github/stars/ProjectQ-Framework/ProjectQ?style=social&color=white)](https://github.com/ProjectQ-Framework/ProjectQ/stargazers)  
+   **Open-source quantum compiler framework from ETH Zurich**, Apache-2.0 licensed. Modular architecture that separates high-level quantum algorithm synthesis from target QPU backend execution.
 
+10. **[Yao.jl](https://github.com/QuantumBFS/Yao.jl)** [![GitHub stars](https://img.shields.io/github/stars/QuantumBFS/Yao.jl?style=social&color=white)](https://github.com/QuantumBFS/Yao.jl/stargazers)  
+    **Julia-based extensible quantum algorithm framework**, MIT licensed. Designed for research in quantum dynamics, intermediate circuit representation, and high-speed Julia simulation.
 
+11. **[Pulser](https://github.com/pasqal-io/Pulser)** [![GitHub stars](https://img.shields.io/github/stars/pasqal-io/Pulser?style=social&color=white)](https://github.com/pasqal-io/Pulser/stargazers)  
+    **Pasqal's open-source Python library for neutral-atom quantum computing**, Apache-2.0 licensed. Enables pulse-level sequence generation and simulation for neutral atom arrays.
 
-- **[Cirq](https://github.com/quantumlib/Cirq)**  
+12. **[Catalyst](https://github.com/PennyLaneAI/catalyst)** [![GitHub stars](https://img.shields.io/github/stars/PennyLaneAI/catalyst?style=social&color=white)](https://github.com/PennyLaneAI/catalyst/stargazers)  
+    **JIT compiler for hybrid quantum programs in PennyLane**, Apache-2.0 licensed. Built on MLIR to optimize hybrid quantum-classical execution workflows.
 
-  **Google's open-source quantum computing framework**, Apache-2.0 licensed . **Designed for NISQ-era algorithms** — precise control over quantum circuits and gates . **Native support for Google's Sycamore and Willow processors** . **Best for Google hardware and NISQ algorithm development** .
+13. **[Quantum++ (qpp)](https://github.com/softwareQinc/qpp)** [![GitHub stars](https://img.shields.io/github/stars/softwareQinc/qpp?style=social&color=white)](https://github.com/softwareQinc/qpp/stargazers)  
+    **Modern C++11 quantum computing library**, MIT licensed. Template-based header-only C++ library for low-overhead, high-speed quantum state and gate manipulation.
 
+14. **[PyQtorch](https://github.com/PyQtorch/PyQtorch)** [![GitHub stars](https://img.shields.io/github/stars/PyQtorch/PyQtorch?style=social&color=white)](https://github.com/PyQtorch/PyQtorch/stargazers)  
+    **PyTorch-based differentiable quantum circuit simulator**, Apache-2.0 licensed. Optimized for deep quantum neural networks and backpropagation through quantum state vectors.
 
+15. **[sQUlearn](https://github.com/sqor/sQUlearn)** [![GitHub stars](https://img.shields.io/github/stars/sqor/sQUlearn?style=social&color=white)](https://github.com/sqor/sQUlearn/stargazers)  
+    **Scikit-learn compliant quantum machine learning library**, BSD-3-Clause licensed. Provides seamless integration of quantum kernel methods and quantum neural networks for data scientists.
 
-- **[PennyLane](https://github.com/PennyLaneAI/pennylane)**  
-
-  **The leading open-source quantum machine learning framework**, Apache-2.0 licensed with **2,000+ GitHub stars** . **Differentiable quantum programming** — integrates with PyTorch, TensorFlow, and JAX . **Hardware-agnostic** — runs on IBM, Google, Rigetti, IonQ, Xanadu, and simulators . **Best for quantum ML and hybrid quantum-classical optimization** .
-
-
-
-- **[ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ)**  
-
-  **Open-source quantum computing framework from ETH Zurich**, Apache-2.0 licensed . **Compiler-focused architecture** — separates high-level algorithm description from hardware execution . **Best for compiler research and resource estimation** .
-
-
-
-- **[Q# (Microsoft Quantum Development Kit)](https://github.com/microsoft/qsharp)**  
-
-  **Microsoft's open-source quantum programming language and QDK**, MIT licensed . **Hardware-agnostic language** . **Rust-based core for speed and portability** . **Azure Quantum Resource Estimator** for scalability measurement . **Best for Microsoft ecosystem and hybrid quantum-classical programming** .
-
-
-
-- **[CUDA-Q](https://github.com/NVIDIA/cuda-quantum)**  
-
-  **NVIDIA's open-source quantum programming platform**, Apache-2.0 licensed . **CUDA-Q Logical** expands to **fault-tolerant quantum computing** . **GPU-accelerated quantum simulation** — the fastest way to simulate quantum circuits . **Best for GPU-accelerated quantum development and error correction research** .
-
-
-
-- **[Catalyst](https://github.com/PennyLaneAI/catalyst)**  
-
-  **JIT compiler for hybrid quantum programs in PennyLane**, Apache-2.0 licensed . **MLIR-based compilation stack** — the industry's most downloaded quantum MLIR compiler . **Best for optimizing hybrid quantum-classical workflows** .
-
-
-
-### Quantum Simulation & Algorithms
-
-
-
-- **[QuTiP](https://github.com/qutip/qutip)**  
-
-  **Quantum Toolbox in Python** — open-source framework for simulating quantum systems, Apache-2.0 licensed . **The standard for quantum physics simulation** — open quantum systems, master equations, and quantum optics . **Best for physics research and quantum dynamics simulation** .
-
-
-
-- **[OpenFermion](https://github.com/quantumlib/OpenFermion)**  
-
-  **Google's open-source library for quantum chemistry**, Apache-2.0 licensed . **The standard for electronic structure calculations** — molecular Hamiltonians, fermionic operators, and qubit mappings . **Best for quantum chemistry and materials science** .
-
-
-
-- **[Yao.jl](https://github.com/QuantumBFS/Yao.jl)**  
-
-  **Julia-based quantum algorithm framework**, Apache-2.0 licensed . **Extensible design** — build custom quantum algorithms . **QuAlgorithmZoo.jl** provides curated algorithm implementations . **Best for Julia users and algorithm research** .
-
-
-
-- **[Tweedledum](https://github.com/boschmitt/tweedledum)**  
-
-  **C++17 library for quantum circuit analysis, compilation, and optimization**, MIT licensed with **92 GitHub stars** . **The reference for quantum circuit optimization** . **Best for quantum compiler development** .
-
-
-
-- **[Strawberry Fields](https://github.com/XanaduAI/strawberryfields)**  
-
-  **Xanadu's open-source photonic quantum computing library**, Apache-2.0 licensed . **Continuous-variable (CV) quantum computing** . **Blackbird** is the quantum programming language for CV systems . **Best for photonic quantum computing research** .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Cirq-Google** — Native Cirq support for Google hardware .
-
-- **Qiskit-Braket-Provider** — Qiskit integration for Amazon Braket .
-
-- **PennyLane-Cirq** — PennyLane plugin for Cirq integration .
-
-- **PyQtorch** — PyTorch-based quantum simulator .
-
-- **sQUlearn** — scikit-learn interface for quantum algorithms .
-
-- **TensorFlow Quantum** — Google's quantum ML library (archived) .
-
-- **Quantum++** — C++ quantum computing library .
-
-- **QuTiP** — Quantum Toolbox in Python .
-
-- **ProjectQ** — Compiler-focused quantum framework .
-
-- **UniversalQCompiler** — Synthesizing arbitrary quantum computations .
-
-
-
-**Frameworks for building custom quantum computing solutions**: Choose based on hardware target and use case. **Qiskit** for IBM hardware and general-purpose development . **Cirq** for Google hardware and NISQ algorithms . **PennyLane** for quantum ML and hybrid optimization with hardware-agnostic execution . **ProjectQ** for compiler research and resource estimation . **Q#** for Microsoft ecosystem and hardware-agnostic programming . **CUDA-Q** for GPU-accelerated simulation and error correction . Note that true quantum advantage with fault-tolerant systems remains years away; current NISQ-era platforms provide value in hybrid optimization (D-Wave Leap), quantum chemistry (OpenFermion), and algorithm research.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Quantum computing services provide access to experimental hardware with limited qubit counts and error rates. **Results are not guaranteed** — quantum advantage demonstrations are specific to particular problems and implementations.
-
-- **Costs vary significantly** — Amazon Braket provides near-real-time cost estimates via Tracker context manager . D-Wave Leap is SOC 2 Type 2 compliant with enterprise pricing . Review pricing before committing to large workloads.
-
-- **Open-source frameworks are vendor-neutral but hardware-specific** — Qiskit targets IBM, Cirq targets Google, PennyLane is hardware-agnostic . Choose based on your hardware access.
-
-- **The quantum ecosystem is rapidly evolving** — verify current platform status and hardware availability before committing to a provider.
-
-- The open-source ecosystem provides strong quantum SDKs, simulators, and algorithms, but **fault-tolerant quantum computing with verifiable advantage** remains primarily a research milestone achieved on specific hardware.
-
-
+16. **[Tweedledum](https://github.com/boschmitt/tweedledum)** [![GitHub stars](https://img.shields.io/github/stars/boschmitt/tweedledum?style=social&color=white)](https://github.com/boschmitt/tweedledum/stargazers)  
+    **C++17 library for quantum circuit analysis, compilation, and synthesis**, MIT licensed. Focuses on reversible logic synthesis and circuit layout optimization.
 
 ---
 
+## 🤝 How to Contribute
 
+1. 🍴 **Fork** this repository.
+2. 📝 **Add or update** entries in `README.md` (ensure formatting adheres to existing table and list structures).
+3. 🔍 Include provider/project name, official documentation link, concise description, pricing/free tier parameters, and star badges where applicable.
+4. 📬 Submit a **Pull Request (PR)** with a clear commit description.
 
-**Made for quantum researchers, algorithm developers, and enterprises exploring quantum computing.**  
+Check out the master repository collection at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)!
 
-Let's make quantum computing cloud services more open, transparent, and accessible.
+---
+
+## 📜 Disclaimer
+
+- This is a **community-curated list** for informational and educational purposes.
+- Quantum computing hardware is rapidly evolving; qubit counts, fidelity metrics, pricing schedules, and cloud access availability are subject to vendor updates.
+- Always verify current resource pricing on official cloud provider portals before dispatching high-shot QPU workloads.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this repository valuable for your research, enterprise evaluation, or quantum development journey:
+
+- ⭐ **Star** this repository on GitHub to boost visibility!
+- 🔀 **Fork** it to keep your own curated reference.
+- 📣 **Share** with fellow quantum researchers, developers, and colleagues.
+- ☕ **Sponsor the Maintainer**: Support ongoing open-source curation via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Quantum-Computing-Cloud-Service&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Quantum-Computing-Cloud-Service&type=date&legend=top-left)
+
+---
+
+<p align="center">
+  <b>Made with ❤️ for quantum researchers, algorithm developers, and enterprise innovation teams worldwide.</b>
+</p>
