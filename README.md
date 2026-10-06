@@ -42,65 +42,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+| Platform | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[Amazon Braket](https://aws.amazon.com/braket/)** | AWS fully managed quantum service — access to IonQ, Rigetti, QuEra, and D-Wave. Unified Python SDK, 11 pre-built algorithms & Braket Direct. | $0.30/task + $0.00035–$0.01/shot (QPU); $0.075/min (SV1 simulator execution) | 1 hour per month of managed simulator execution (SV1/TN1/DM1) free for first 12 months |
+| **[IBM Quantum Platform](https://quantum.ibm.com/)** | Longest-running quantum cloud service (since 2016) with Heron QPU access. Data locality options, SSO integration, and native Qiskit SDK support. | $1.60 per QPU second (Pay-as-you-go Plan); $800/month minimum for Premium tier | 10 minutes of QPU time per month free forever on 127-qubit / Heron quantum processors (Open Plan) |
+| **[Microsoft Azure Quantum](https://azure.microsoft.com/en-us/products/quantum)** | Microsoft's cloud quantum service — access to IonQ, Quantinuum, Rigetti, Pasqal. Q# programming language, Resource Estimator & Copilot integration. | $0.30/task + $0.00035–$0.01/shot (QPU); $10.00/hour (quantum simulator execution) | $500 free credit per provider for new users; unlimited free cloud simulator & Quantinuum Emulator without Azure account |
+| **[Rigetti Computing](https://www.rigetti.com/)** | Cloud access to Rigetti superconducting quantum processors with hybrid classical-quantum co-processing using Quil language & Forest SDK. | $0.30/task + $0.00035/shot (QPU via Braket/Azure); $900.00/hour dedicated QPU reservation | 10 minutes free QPU testing on Rigetti Novera QPU via partner trial; $500 AWS/Azure partner credits |
+| **[D-Wave Leap](https://www.dwavequantum.com/solutions-and-products/cloud-platform/)** | Commercial quantum annealing cloud service with 99.9% uptime. Access to Advantage2 annealing systems & hybrid solvers for up to 2M variables. | $0.35 per QPU second (Pay-as-you-go); $2,000/month Developer subscription (15 QPU sec/month) | 1 minute (60 seconds) of QPU time per month free on sign-up (up to 20 minutes if GitHub account linked) |
+| **[IonQ Quantum Cloud](https://ionq.com/)** | Trapped-ion quantum computers with industry-leading gate fidelity. Quantum Cloud Console for job management, API access & multi-cloud SDK integration. | $0.30/task + $0.01/shot (Aria/Forte QPU); $100.00/hour reserved QPU access | $500 free Azure/AWS partner credit allocation; 100 free simulator credits on account signup |
+| **[QuEra Computing](https://www.quera.com/)** | Neutral-atom quantum computers featuring Aquila (256 qubits with analog control) available via Amazon Braket and Azure Quantum. | $0.30/task + $0.01/shot (QPU execution via Braket/Azure); $2,250.00/hour reserved QPU time | $500 AWS Braket credit allocation for research users; 1 hour free analog simulation trial |
+| **[Strangeworks](https://strangeworks.com/)** | Unified compute platform aggregating quantum, quantum-inspired, HPC, and classical backends with one-click setup and zero markup. | $0.001 per shot (zero markup on cloud QPU execution); $500.00/month enterprise workspace subscription | Free Community tier with unlimited public workspace access & 100 free simulator jobs/month |
+| **[Xanadu PennyLane Cloud](https://www.xanadu.ai/)** | Photonic quantum computing cloud access featuring Aurora scalable hardware with real-time error correction and PennyLane QML framework. | $0.0005 per shot (X-series photonic QPU); $10.00/hour cloud simulator execution | Free access to PennyLane ecosystem with 2 hours/month cloud simulator time & 10 free photonic QPU jobs on signup |
+| **[QC Ware Forge](https://qcware.com/)** | Enterprise quantum computing platform featuring specialized turnkey algorithms for quantum chemistry, optimization, and machine learning. | $50.00/hour hybrid algorithm solver usage; $2,500.00/month Starter subscription | 30-day free trial with 1,000 Forge credit units for chemistry & optimization solver testing |
 
-
-- **[Amazon Braket](https://aws.amazon.com/braket/)**  
-
-  **AWS's fully managed quantum computing service** — access to **IonQ, Rigetti, IQM, QuEra, and D-Wave** hardware . **Unified Python SDK** for building, testing, and running quantum circuits . **11 pre-built algorithm library**, **Program Sets** for bundling circuits, and **Braket Direct** for exclusive hardware reservations . **Tracker context manager** provides near-real-time cost estimates before submission . **Best for AWS-native quantum computing** .
-
-
-
-- **[IBM Quantum Platform](https://quantum.ibm.com/)**  
-
-  **The longest-running quantum cloud service** (since 2016) with **Heron QPU access for Open Plan users** . **Data locality** (choose EU datacenter), **enhanced security with SSO and Service IDs**, and **seamless integration with Cloud Object Storage and VPC** . **Qiskit** is the primary SDK . **Best for IBM hardware access** .
-
-
-
-- **[Microsoft Azure Quantum](https://azure.microsoft.com/en-us/products/quantum)**  
-
-  **Microsoft's cloud quantum service** — access to multiple hardware providers (IonQ, Quantinuum, Rigetti, Pasqal) . **Q# programming language with hardware-agnostic execution** . **Resource Estimator** for measuring scalability, **Copilot** guidance for quantum coding . **Free to use without Azure account** for code samples and Quantinuum Emulator . **Best for Microsoft ecosystem and hybrid quantum-classical programming** .
-
-
-
-- **[Rigetti Computing](https://www.rigetti.com/)**  
-
-  Cloud access to Rigetti's superconducting quantum processors . **Pioneered quantum co-processing** — hybrid classical-quantum architecture . **Quil** programming language and **Forest** SDK for development . **Best for superconducting quantum computing** .
-
-
-
-- **[D-Wave Leap](https://www.dwavequantum.com/solutions-and-products/cloud-platform/)**  
-
-  **The most commercially mature quantum cloud service** with 99.9% uptime and subsecond QPU response times . Access to **Advantage2 annealing quantum systems** and **hybrid solvers handling up to 2 million variables** . **SOC 2 Type 2 compliant** . **The best platform for optimization problems** — scheduling, routing, resource allocation .
-
-
-
-- **[IonQ Quantum Cloud](https://ionq.com/)**  
-
-  Access to IonQ's **trapped-ion quantum computers** with industry-leading gate fidelities . **Quantum Cloud Console** at cloud.ionq.com for managing API credentials and inspecting jobs . **Supports the most SDKs, languages, and cloud integrations** of any quantum hardware provider . **Best for high-fidelity quantum computing** .
-
-
-
-- **[QuEra Computing](https://www.quera.com/)**  
-
-  **Neutral-atom quantum computers** with **Aquila** — 256 qubits with analog control . **Available via Amazon Braket and Azure Quantum** . **Best for analog quantum simulation** .
-
-
-
-- **[Strangeworks](https://strangeworks.com/)**  
-
-  **Unified platform for quantum, quantum-inspired, HPC, and classical compute** — one interface, any backend . **One-click activation and zero markup on compute** . **Best for comparing across providers** .
-
-
-
-- **[Xanadu PennyLane Cloud](https://www.xanadu.ai/)**  
-
-  Access to Xanadu's **photonic quantum computers** via cloud . **Aurora** is the first networked, modular, scalable quantum computer with **real-time error-correction decoding** . **PennyLane** — the leading open-source quantum ML framework — powers Xanadu's software ecosystem . **Best for photonic quantum computing** .
-
-
-
-- **[QC Ware Forge](https://qcware.com/)**  
-
-  **Enterprise quantum computing platform** — algorithms and applications for chemistry, optimization, and machine learning . **Best for enterprise quantum applications** .
 
 
 
