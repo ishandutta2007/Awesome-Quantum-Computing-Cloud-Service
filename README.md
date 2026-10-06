@@ -42,6 +42,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+> **Sector Overview:** The global quantum computing cloud service market is estimated at **$1.1B–$1.6B in 2026** (projected to reach **$6.2B+ by 2030** at ~35% CAGR). The sector is **highly fragmented** due to competing qubit hardware modalities (superconducting, trapped-ion, neutral-atom, photonic, annealing) and a dual model where hyperscale aggregators (AWS, Azure) distribute specialized pure-play quantum hardware backends.
+
 | Platform | Company Size (Valuation/Revenue) | Description | Pricing | Free Tier Limit |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Microsoft Azure Quantum](https://azure.microsoft.com/en-us/products/quantum)** | Market Cap: ~$3.10 Trillion (Rev: ~$245B) | Microsoft's cloud quantum service — access to IonQ, Quantinuum, Rigetti, Pasqal. Q# programming language, Resource Estimator & Copilot integration. | $0.30/task + $0.00035–$0.01/shot (QPU); $10.00/hour (quantum simulator execution) | $500 free credit per provider for new users; unlimited free cloud simulator & Quantinuum Emulator without Azure account |
