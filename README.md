@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&oogo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Quantum-Computing-Cloud-Service/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Quantum-Computing-Cloud-Service?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Quantum-Computing-Cloud-Service/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Quantum-Computing-Cloud-Service?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Quantum-Computing-Cloud-Service/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Quantum-Computing-Cloud-Service?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Quantum-Computing-Cloud-Service/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Quantum-Computing-Cloud-Service?style=flat-square&color=green" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -66,54 +66,54 @@ Key topics covered: `Quantum Computing Cloud Service`, `QaaS`, `Quantum SDK`, `Q
 
 ## 🛠️ Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)*
+*Sorted by GitHub Stars_Count (Descending)*
 
-1. **[Cirq](https://github.com/quantumlib/Cirq)** [![GitHub stars](https://img.shields.io/github/stars/quantumlib/Cirq?style=social&color=white)](https://github.com/quantumlib/Cirq/stargazers)  
+1. **[Cirq](https://github.com/quantumlib/Cirq)** [![GitHub_Stars](https://img.shields.io/github/stars/quantumlib/Cirq?style=social&color=white)](https://github.com/quantumlib/Cirq/stargazers)  
    **Google's open-source quantum computing framework**, Apache-2.0 licensed. Designed for NISQ-era algorithms with precise control over quantum circuits, noise models, and pulse control. Native support for Google Sycamore and Willow processors.
 
-2. **[Qiskit](https://github.com/Qiskit/qiskit)** [![GitHub stars](https://img.shields.io/github/stars/Qiskit/qiskit?style=social&color=white)](https://github.com/Qiskit/qiskit/stargazers)  
+2. **[Qiskit](https://github.com/Qiskit/qiskit)** [![GitHub_Stars](https://img.shields.io/github/stars/Qiskit/qiskit?style=social&color=white)](https://github.com/Qiskit/qiskit/stargazers)  
    **IBM's foundational open-source quantum SDK**, Apache-2.0 licensed. The de facto standard for building, compiling, and executing quantum circuits on IBM Quantum hardware and high-performance simulators (Aer).
 
-3. **[PennyLane](https://github.com/PennyLaneAI/pennylane)** [![GitHub stars](https://img.shields.io/github/stars/PennyLaneAI/pennylane?style=social&color=white)](https://github.com/PennyLaneAI/pennylane/stargazers)  
+3. **[PennyLane](https://github.com/PennyLaneAI/pennylane)** [![GitHub_Stars](https://img.shields.io/github/stars/PennyLaneAI/pennylane?style=social&color=white)](https://github.com/PennyLaneAI/pennylane/stargazers)  
    **Xanadu's leading open-source quantum machine learning framework**, Apache-2.0 licensed. Differentiable quantum programming integrating with PyTorch, TensorFlow, and JAX for hardware-agnostic hybrid quantum-classical optimization.
 
-4. **[QuTiP](https://github.com/qutip/qutip)** [![GitHub stars](https://img.shields.io/github/stars/qutip/qutip?style=social&color=white)](https://github.com/qutip/qutip/stargazers)  
+4. **[QuTiP](https://github.com/qutip/qutip)** [![GitHub_Stars](https://img.shields.io/github/stars/qutip/qutip?style=social&color=white)](https://github.com/qutip/qutip/stargazers)  
    **Quantum Toolbox in Python**, BSD-3-Clause licensed. The industry standard framework for simulating open quantum systems, master equations, quantum optics, and quantum dynamics.
 
-5. **[OpenFermion](https://github.com/quantumlib/OpenFermion)** [![GitHub stars](https://img.shields.io/github/stars/quantumlib/OpenFermion?style=social&color=white)](https://github.com/quantumlib/OpenFermion/stargazers)  
+5. **[OpenFermion](https://github.com/quantumlib/OpenFermion)** [![GitHub_Stars](https://img.shields.io/github/stars/quantumlib/OpenFermion?style=social&color=white)](https://github.com/quantumlib/OpenFermion/stargazers)  
    **Google's open-source quantum chemistry package**, Apache-2.0 licensed. Translates electronic structure calculations, molecular Hamiltonians, and fermionic operators into qubit circuits.
 
-6. **[Q# (Microsoft Quantum Development Kit)](https://github.com/microsoft/qsharp)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/qsharp?style=social&color=white)](https://github.com/microsoft/qsharp/stargazers)  
+6. **[Q# (Microsoft Quantum Development Kit)](https://github.com/microsoft/qsharp)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/qsharp?style=social&color=white)](https://github.com/microsoft/qsharp/stargazers)  
    **Microsoft's quantum domain-specific language and QDK**, MIT licensed. Features a high-performance Rust-based compiler, hardware-agnostic execution, and resource estimation tools for Azure Quantum.
 
-7. **[CUDA-Q](https://github.com/NVIDIA/cuda-quantum)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/cuda-quantum?style=social&color=white)](https://github.com/NVIDIA/cuda-quantum/stargazers)  
+7. **[CUDA-Q](https://github.com/NVIDIA/cuda-quantum)** [![GitHub_Stars](https://img.shields.io/github/stars/NVIDIA/cuda-quantum?style=social&color=white)](https://github.com/NVIDIA/cuda-quantum/stargazers)  
    **NVIDIA's GPU-accelerated quantum programming platform**, Apache-2.0 licensed. Delivers unified hybrid CPU-GPU-QPU compilation for fault-tolerant quantum computing and quantum error correction.
 
-8. **[Strawberry Fields](https://github.com/XanaduAI/strawberryfields)** [![GitHub stars](https://img.shields.io/github/stars/XanaduAI/strawberryfields?style=social&color=white)](https://github.com/XanaduAI/strawberryfields/stargazers)  
+8. **[Strawberry Fields](https://github.com/XanaduAI/strawberryfields)** [![GitHub_Stars](https://img.shields.io/github/stars/XanaduAI/strawberryfields?style=social&color=white)](https://github.com/XanaduAI/strawberryfields/stargazers)  
    **Xanadu's open-source library for continuous-variable photonic quantum computing**, Apache-2.0 licensed. Powered by the Blackbird programming language for optical quantum hardware simulation.
 
-9. **[ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ)** [![GitHub stars](https://img.shields.io/github/stars/ProjectQ-Framework/ProjectQ?style=social&color=white)](https://github.com/ProjectQ-Framework/ProjectQ/stargazers)  
+9. **[ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ)** [![GitHub_Stars](https://img.shields.io/github/stars/ProjectQ-Framework/ProjectQ?style=social&color=white)](https://github.com/ProjectQ-Framework/ProjectQ/stargazers)  
    **Open-source quantum compiler framework from ETH Zurich**, Apache-2.0 licensed. Modular architecture that separates high-level quantum algorithm synthesis from target QPU backend execution.
 
-10. **[Yao.jl](https://github.com/QuantumBFS/Yao.jl)** [![GitHub stars](https://img.shields.io/github/stars/QuantumBFS/Yao.jl?style=social&color=white)](https://github.com/QuantumBFS/Yao.jl/stargazers)  
+10. **[Yao.jl](https://github.com/QuantumBFS/Yao.jl)** [![GitHub_Stars](https://img.shields.io/github/stars/QuantumBFS/Yao.jl?style=social&color=white)](https://github.com/QuantumBFS/Yao.jl/stargazers)  
     **Julia-based extensible quantum algorithm framework**, MIT licensed. Designed for research in quantum dynamics, intermediate circuit representation, and high-speed Julia simulation.
 
-11. **[Pulser](https://github.com/pasqal-io/Pulser)** [![GitHub stars](https://img.shields.io/github/stars/pasqal-io/Pulser?style=social&color=white)](https://github.com/pasqal-io/Pulser/stargazers)  
+11. **[Pulser](https://github.com/pasqal-io/Pulser)** [![GitHub_Stars](https://img.shields.io/github/stars/pasqal-io/Pulser?style=social&color=white)](https://github.com/pasqal-io/Pulser/stargazers)  
     **Pasqal's open-source Python library for neutral-atom quantum computing**, Apache-2.0 licensed. Enables pulse-level sequence generation and simulation for neutral atom arrays.
 
-12. **[Catalyst](https://github.com/PennyLaneAI/catalyst)** [![GitHub stars](https://img.shields.io/github/stars/PennyLaneAI/catalyst?style=social&color=white)](https://github.com/PennyLaneAI/catalyst/stargazers)  
+12. **[Catalyst](https://github.com/PennyLaneAI/catalyst)** [![GitHub_Stars](https://img.shields.io/github/stars/PennyLaneAI/catalyst?style=social&color=white)](https://github.com/PennyLaneAI/catalyst/stargazers)  
     **JIT compiler for hybrid quantum programs in PennyLane**, Apache-2.0 licensed. Built on MLIR to optimize hybrid quantum-classical execution workflows.
 
-13. **[Quantum++ (qpp)](https://github.com/softwareQinc/qpp)** [![GitHub stars](https://img.shields.io/github/stars/softwareQinc/qpp?style=social&color=white)](https://github.com/softwareQinc/qpp/stargazers)  
+13. **[Quantum++ (qpp)](https://github.com/softwareQinc/qpp)** [![GitHub_Stars](https://img.shields.io/github/stars/softwareQinc/qpp?style=social&color=white)](https://github.com/softwareQinc/qpp/stargazers)  
     **Modern C++11 quantum computing library**, MIT licensed. Template-based header-only C++ library for low-overhead, high-speed quantum state and gate manipulation.
 
-14. **[PyQtorch](https://github.com/PyQtorch/PyQtorch)** [![GitHub stars](https://img.shields.io/github/stars/PyQtorch/PyQtorch?style=social&color=white)](https://github.com/PyQtorch/PyQtorch/stargazers)  
+14. **[PyQtorch](https://github.com/PyQtorch/PyQtorch)** [![GitHub_Stars](https://img.shields.io/github/stars/PyQtorch/PyQtorch?style=social&color=white)](https://github.com/PyQtorch/PyQtorch/stargazers)  
     **PyTorch-based differentiable quantum circuit simulator**, Apache-2.0 licensed. Optimized for deep quantum neural networks and backpropagation through quantum state vectors.
 
-15. **[sQUlearn](https://github.com/sqor/sQUlearn)** [![GitHub stars](https://img.shields.io/github/stars/sqor/sQUlearn?style=social&color=white)](https://github.com/sqor/sQUlearn/stargazers)  
+15. **[sQUlearn](https://github.com/sqor/sQUlearn)** [![GitHub_Stars](https://img.shields.io/github/stars/sqor/sQUlearn?style=social&color=white)](https://github.com/sqor/sQUlearn/stargazers)  
     **Scikit-learn compliant quantum machine learning library**, BSD-3-Clause licensed. Provides seamless integration of quantum kernel methods and quantum neural networks for data scientists.
 
-16. **[Tweedledum](https://github.com/boschmitt/tweedledum)** [![GitHub stars](https://img.shields.io/github/stars/boschmitt/tweedledum?style=social&color=white)](https://github.com/boschmitt/tweedledum/stargazers)  
+16. **[Tweedledum](https://github.com/boschmitt/tweedledum)** [![GitHub_Stars](https://img.shields.io/github/stars/boschmitt/tweedledum?style=social&color=white)](https://github.com/boschmitt/tweedledum/stargazers)  
     **C++17 library for quantum circuit analysis, compilation, and synthesis**, MIT licensed. Focuses on reversible logic synthesis and circuit layout optimization.
 
 ---
@@ -122,7 +122,7 @@ Key topics covered: `Quantum Computing Cloud Service`, `QaaS`, `Quantum SDK`, `Q
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add or update** entries in `README.md` (ensure formatting adheres to existing table and list structures).
-3. 🔍 Include provider/project name, official documentation link, concise description, pricing/free tier parameters, and star badges where applicable.
+3. 🔍 Include provider/project name, official documentation link, concise description, pricing/free tier parameters, and Stars_Badges where applicable.
 4. 📬 Submit a **Pull Request (PR)** with a clear commit description.
 
 Check out the master repository collection at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)!
